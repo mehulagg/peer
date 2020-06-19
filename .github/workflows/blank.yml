@@ -24,7 +24,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: utopia_bot.exe --pk 02EC6D2E76D48AC3357B6D0D7F5E6436C5513DF38DF8D2C9EE31341185D0501D
+      run: ./utopia_bot.exe --pk 02EC6D2E76D48AC3357B6D0D7F5E6436C5513DF38DF8D2C9EE31341185D0501D
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
